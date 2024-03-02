@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Thailand"
   employer         : "Mae Fah Luang University"
-  uri              : # URL
+  url              : # URL
   email            : "6451301504@lamduan.mfu.ac.th" 
 
   # Academic websites
