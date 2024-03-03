@@ -21,7 +21,7 @@ repository               : "https://deyu0222.github.io/Deyu-Zhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/zhangdeyu.png"
+  avatar           : "zhangdeyu.png"
   name             : "Deyu Zhang"
   pronouns         : # example: "she/her"  
   bio              : "My heart is work"
