@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.Sc in Information Technology, Mae Fah University, 2025 (expected)
 * B.S. in Animation, Southwest Forestry University, June，2016
 
